@@ -15,7 +15,7 @@ Application web simple pour gérer vos tâches quotidiennes.
 - JavaScript (Vanilla)
 
 ## 🌍 Démo
-https://ambroisendiaye91.github.io/todo-app/
+https://ambroisendiaye91.github.io
 
 ## 👤 Auteur
 Ambroise NDIAYE
