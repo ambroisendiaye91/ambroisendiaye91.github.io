@@ -1,0 +1,21 @@
+# 📝 Todo App
+
+Application web simple pour gérer vos tâches quotidiennes.
+
+## 🚀 Fonctionnalités
+- Ajouter une tâche
+- Marquer une tâche comme terminée
+- Supprimer une tâche
+- Sauvegarde automatique avec LocalStorage
+- Interface responsive
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript (Vanilla)
+
+## 🌍 Démo
+https://VOTRE-USERNAME.github.io/todo-app/
+
+## 👤 Auteur
+Ambroise NDIAYE
